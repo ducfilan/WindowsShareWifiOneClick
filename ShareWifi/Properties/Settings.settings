@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShareWifi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SSID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chinhlaanhduc</Value>
+    </Setting>
+    <Setting Name="KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456777</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

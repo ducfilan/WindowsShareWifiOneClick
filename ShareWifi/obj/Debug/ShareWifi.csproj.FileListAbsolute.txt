@@ -1,0 +1,8 @@
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\bin\Debug\ShareWifi.exe
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\bin\Debug\ShareWifi.pdb
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\obj\Debug\ShareWifi.Form1.resources
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\obj\Debug\ShareWifi.Properties.Resources.resources
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\obj\Debug\ShareWifi.csproj.GenerateResource.Cache
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\obj\Debug\ShareWifi.exe
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\obj\Debug\ShareWifi.pdb
+d:\data\documents\visual studio 2013\Projects\ShareWifi\ShareWifi\bin\Debug\ShareWifi.exe.config
